@@ -1,0 +1,103 @@
+<section class="section new" id="new">
+                <h2 class="section__title">New Arrivals</h2>
+
+                <div class="new_container container ">
+                    <div class="swiper new-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="new_content swiper-slide" style="background-color: bisque;">
+                                <div class="new_tag">New</div>
+                                <img src="assets/img/irene-kredenets-dwKiHoqqxk8-unsplash-removebg-preview (1).png" alt="" class="new_img">
+                                <h3 class="new_title">Haydra33</h3>
+                                <span class="new_subtitle">Spot</span>
+    
+                                <div class="new_prices">
+                                    <span class="new_price"><sup>$</sup>89<sup>99</sup></span>
+                                    <span class="new_discount"><sup>$</sup>140<sup>00</sup></span>
+                                </div>
+                                <button class="button new_button">
+                                <i class='bx bx-cart-alt new_icon'></i>
+                                </button>
+                            </div>
+    
+    
+                            <div class="new_content swiper-slide card">
+                                <div class="new_tag">New</div>
+                                <img src="assets/img/alex-motoc-xyjB6_ZDaKw-unsplash-removebg-preview (1).png" alt="" class="new_img">
+                                <h3 class="new_title">Green12</h3>
+                                <span class="new_subtitle">Sneakers</span>
+    
+                                <div class="new_prices">
+                                    <span class="new_price"><sup>$</sup>89<sup>99</sup></span>
+                                    <span class="new_discount"><sup>$</sup>140<sup>00</sup></span>
+                                </div>
+                                <button class="button new_button">
+                                <i class='bx bx-cart-alt new_icon'></i>
+                                </button>
+                            </div>
+    
+    
+                            <div class="new_content swiper-slide card">
+                                <div class="new_tag">New</div>
+                                <img src="assets/img/H3.png" alt="" class="new_img">
+                                <h3 class="new_title">SPS</h3>
+                                <span class="new_subtitle">Sneakers</span>
+    
+                                <div class="new_prices">
+                                    <span class="new_price"><sup>$</sup>89<sup>99</sup></span>
+                                    <span class="new_discount"><sup>$</sup>140<sup>00</sup></span>
+                                </div>
+                                <button class="button new_button">
+                                <i class='bx bx-cart-alt new_icon'></i>
+                                </button>
+                            </div>
+    
+    
+                            <div class="new_content swiper-slide card">
+                                <div class="new_tag">New</div>
+                                <img src="assets/img/home2.png" alt="" class="new_img">
+                                <h3 class="new_title">Dray33</h3>
+                                <span class="new_subtitle">Spot</span>
+    
+                                <div class="new_prices">
+                                    <span class="new_price"><sup>$</sup>89<sup>99</sup></span>
+                                    <span class="new_discount"><sup>$</sup>140<sup>00</sup></span>
+                                </div>
+                                <button class="button new_button">
+                                <i class='bx bx-cart-alt new_icon'></i>
+                                </button>
+                            </div>
+    
+    
+                            <div class="new_content swiper-slide card">
+                                <div class="new_tag">New</div>
+                                <img src="assets/img/paul-gaudriault-a-QH9MAAVNI-unsplash-removebg-preview.png" alt="" class="new_img">
+                                <h3 class="new_title">Hapy</h3>
+                                <span class="new_subtitle">Sneakers</span>
+    
+                                <div class="new_prices">
+                                    <span class="new_price"><sup>$</sup>89<sup>99</sup></span>
+                                    <span class="new_discount"><sup>$</sup>140<sup>00</sup></span>
+                                </div>
+                                <button class="button new_button">
+                                <i class='bx bx-cart-alt new_icon'></i>
+                                </button>
+                            </div>
+    
+                            <div class="new_content swiper-slide card">
+                                <div class="new_tag">New</div>
+                                <img src="assets/img/baskets/baskets-montantes_31-removebg-preview.png" alt="" class="new_img">
+                                <h3 class="new_title">22Volt</h3>
+                                <span class="new_subtitle">Spot</span>
+    
+                                <div class="new_prices">
+                                    <span class="new_price"><sup>$</sup>89<sup>99</sup></span>
+                                    <span class="new_discount"><sup>$</sup>140<sup>00</sup></span>
+                                </div>
+                                <button class="button new_button">
+                                <i class='bx bx-cart-alt new_icon'></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
